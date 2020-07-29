@@ -1,6 +1,7 @@
 # JuricCh4
 
-**TODO: Add description**
+This repo provides a place and skeleton to create tests anticipating each code
+block in Saša Jurić's book *Elixir in Action, 2nd ed*.
 
 ## Installation
 
